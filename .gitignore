@@ -1,0 +1,6 @@
+.env
+.venv
+tmp
+debug_crops
+debug
+.ipynb_checkpoints
