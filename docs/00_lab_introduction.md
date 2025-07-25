@@ -34,7 +34,7 @@ Open the terminal from the left panel.
 
 > Commands: \
 `git clone https://github.com/apj-aih/ai-hackathon-starter.git` \
-`cd ai-hackathon`
+`cd ai-hackathon-starter`
 
 4\. Run the clean up script to prepare the VM.
 
