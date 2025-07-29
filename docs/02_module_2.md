@@ -9,7 +9,14 @@ There are more sample Jupyter Notebooks available for your reference to play the
 
 2\. Create & go to folder `/home/demouser/Documents/workspace/git` in the terminal
 
-Type `git clone https://github.com/apj-aih/ai-hackathon.git` and press `Enter`
+> Commands: \
+`mkdir /home/demouser/Documents/workspace/git` \
+`cd /home/demouser/Documents/workspace/git`
+
+Clone ai-hackathon git repo to the git directory:
+
+> Commands: \
+`git clone https://github.com/apj-aih/ai-hackathon.git`
 
 This will clone the repo from github.
 

@@ -62,12 +62,12 @@ If the docker container for Jupyter Lab is not running, run it using below comma
 
 
 8\. Open the Jupyter Lab using the URL:\
-`http://localhost:8888`
+`http://127.0.0.1:8888`
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-18/60d248ff-53a8-451d-bfeb-83631d1e53e3/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=172,69)
 
 
-9\. Enter the password - 'YOUR_PASSWORD' and click Login
+9\. Enter the password - YOUR_PASSWORD and click Login
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-18/c53c8c95-6c66-455e-81f2-0dd648de1d8e/ascreenshot.jpeg?tl_px=103,0&br_px=1479,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=554,176)
 
@@ -92,6 +92,4 @@ If the docker container for Jupyter Lab is not running, run it using below comma
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-18/e9c1948f-64da-4f76-b616-c76e5a9f550b/ascreenshot.jpeg?tl_px=103,218&br_px=1479,987&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=678,277)
 
 
-14\. Wait until you see '4' for the last code cell. This ensures all the dependencies are installed successfully.
-
-![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-18/dc879293-0e9d-4229-8fc4-c97109667bd8/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=353,211)
+14\. Wait until you see '✅ Done!' for the last code cell. This ensures all the dependencies are installed successfully.
