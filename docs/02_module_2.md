@@ -7,7 +7,7 @@ There are more sample Jupyter Notebooks available for your reference to play the
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-18/c031ec95-0af5-4fa9-9cdc-b2ccc126f54e/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=0,186)
 
 
-2\. Create & go to folder `/home/demouser/Documents/workspace/git` in the terminal
+2\. Create & cd to folder `/home/demouser/Documents/workspace/git` in the terminal
 
 > Commands: \
 `mkdir /home/demouser/Documents/workspace/git` \
@@ -17,8 +17,6 @@ Clone ai-hackathon git repo to the git directory:
 
 > Commands: \
 `git clone https://github.com/apj-aih/ai-hackathon.git`
-
-This will clone the repo from github.
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-18/1d96f866-5f83-48c2-9614-c49118ce4979/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=399,151)
 
@@ -53,4 +51,4 @@ This will clone the repo from github.
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-07-18/0febea3b-7abc-428c-820c-c74f729b23d4/ascreenshot.jpeg?tl_px=103,0&br_px=1479,769&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1034,189)
 
 
-> Tip: Tip! Take these files as the reference & play the quiz to win it.
+> Tip! Take these files as the reference & play the quiz to win it.
